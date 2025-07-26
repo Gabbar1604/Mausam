@@ -1,5 +1,7 @@
 # Mausam
 Mausam is a Flutter-based weather app using the OpenWeather API to provide real-time updates worldwide. It offers current temperature, humidity, wind speed, and weather conditions with a clean, intuitive interface for quick and accurate weather info at your fingertips.
+![WhatsApp Image 2025-07-27 at 00 48 14_8dc7d68c](https://github.com/user-attachments/assets/2b88d040-d29a-4783-b3fc-23054afe453a)
+
 ![WhatsApp Image 2025-07-20 at 15 52 01_72744be0](https://github.com/user-attachments/assets/d10619e7-27c6-4269-904e-30f4154db103)
 ![WhatsApp Image 2025-07-20 at 15 52 02_dee65080](https://github.com/user-attachments/assets/8f2629aa-91bb-41b2-9158-92241cf1ab5c)
 ![WhatsApp Image 2025-07-20 at 15 52 02_43a66e5b](https://github.com/user-attachments/assets/445bb519-bbcc-4998-ba4c-166edaf61e07)
